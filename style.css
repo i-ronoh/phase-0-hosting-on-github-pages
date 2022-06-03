@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    border: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    /* background: linear-gradient(blue, yellow); */
+    background: linear-gradient(to right, blue 0%, blue 50%, yellow 50%, yellow 100%);
+}
+
+body h1 {
+    color: black;
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+body p {
+    border: 2px solid whitesmoke;
+    background-color: aliceblue;
+    border-radius: 5px;
+    padding: 20px;
+    text-align: center;
+    margin: 5px;
+    font-size: 20px;
+}
